@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noor Alshatti Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #004080;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-weight: bold;
+            font-size: 1.3em;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #004080;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+        .item {
+            margin-bottom: 10px;
+        }
+        .contact-info a {
+            color: #004080;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Noor Alshatti</h1>
+    <div class="contact-info">
+        <p>Email: <a href="mailto:nooralshatti402@gmail.com">nooralshatti402@gmail.com</a></p>
+        <p>Phone: (929) 318-8622</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/noor-alshatti-247422225" target="_blank">www.linkedin.com/in/noor-alshatti-247422225</a></p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        <p><strong>University of San Francisco, School of Management</strong> - San Francisco, CA</p>
+        <ul>
+            <li>M.A. in Entrepreneurship & Innovation, GPA: 3.7 (June 2025)</li>
+            <li>B.A. in Accounting, GPA: 3.5 (December 2023)</li>
+            <li>Vice President, Arab Student Union Club</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Experience</div>
+
+        <div class="item">
+            <p class="job-title">Accountant Office Coordinator</p>
+            <p>Cratus Inc. - San Francisco, CA (January 2025 - Present)</p>
+            <ul>
+                <li>Processed and logged invoices accurately.</li>
+                <li>Managed vendor relationships and resolved payment issues.</li>
+                <li>Utilized Acumatica software for accounting tasks.</li>
+                <li>Analyzed financial data for discrepancies and trends.</li>
+            </ul>
+        </div>
+
+        <div class="item">
+            <p class="job-title">Staff Accountant (Internship)</p>
+            <p>Novogradac & Company LLP - San Francisco, CA (January 2024 - April 2024)</p>
+            <ul>
+                <li>Completed tax engagements under supervision.</li>
+                <li>Identified and addressed potential problem areas.</li>
+                <li>Maintained client relationships through timely communication.</li>
+                <li>Collaborated with team members to meet filing deadlines.</li>
+            </ul>
+        </div>
+
+        <div class="item">
+            <p class="job-title">Summer Intern</p>
+            <p>National Bank of Kuwait - Kuwait City, Kuwait (June 2023 - July 2023)</p>
+            <ul>
+                <li>Learned about ethical standards and regulatory compliance in banking.</li>
+                <li>Enhanced client engagement and communication skills.</li>
+                <li>Gained a deep understanding of banking operations and services.</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="section">
+        <div class="section-title">Projects</div>
+        <p><strong>Accounting Data Analytics Project</strong> - Created ratios using Excel and identified trends to predict bankruptcies.</p>
+        <p><strong>Principles of Financial Accounting Project</strong> - Implemented hands-on accounting practice over a full semester.</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Additional Information</div>
+        <ul>
+            <li><strong>Technical Skills:</strong> SQL, Lucid Charts, CCH, CaseWare</li>
+            <li><strong>Languages:</strong> Arabic (fluent), English (fluent)</li>
+            <li><strong>Interests:</strong> Social Entrepreneurship, Product Management, Design Thinking, Fitness</li>
+        </ul>
+    </div>
+
+</body>
+</html>
